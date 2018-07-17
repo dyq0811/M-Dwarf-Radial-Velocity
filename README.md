@@ -1,3 +1,5 @@
+## This is modified version of Dr. Elisabeth R. Newton's program. Precision improved. -- Yingqi Ding
+
 # Absolute near-infared radial velocities
 
 This code measures absolute radial velocities for low-resolution NIR spectra. I use telluric features to provide absolute wavelength calibration, and then cross-correlate with a standard star. To use the code for your star, you will need observations of a standard star (included) and your science target (examples included). You will need both the telluric and non-telluric-corrected spectra and the FITS headers, but no other spectra is required. Orders do not need to be combined. It should work for all extant spectra taken with SpeX on IRTF or similar instruments. 
