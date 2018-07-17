@@ -1,4 +1,5 @@
-### This is modified version of Dr. Elisabeth R. Newton's program. Precision improved.
+This is modified version of Dr. Elisabeth R. Newton's program. Precision improved.
+
 
                                                                        -- Yingqi Ding
 
