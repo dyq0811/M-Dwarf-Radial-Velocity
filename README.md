@@ -1,4 +1,4 @@
-This is modified version of Dr. Elisabeth R. Newton's program. Precision improved. -- Yingqi Ding
+This is a modified version of Dr. Elisabeth R. Newton's program. Precision is improved. -- Yingqi Ding
 
 # Absolute near-infared radial velocities
 
