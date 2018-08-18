@@ -1,4 +1,4 @@
-A modified and extended version of Dr. Elisabeth R. Newton's RV calculation program. Precision is improved and the uncertatinty calcuation function is added. -- Yingqi Ding
+A modified and extended version of Dr. Elisabeth R. Newton's RV calculation program. Precision is improved and the uncertatinty calcuation function is added. -- Yingqi Ding, Summer 2018
 
 # Absolute near-infared radial velocities
 
